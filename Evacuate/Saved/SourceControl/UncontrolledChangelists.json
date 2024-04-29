@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Levels/ConcertHall.umap",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/AI/BT_Escape.uasset",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/Tasks/BTTask_LookingForNewmark.uasset",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/AI/AI_EscapeController.uasset",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/AI/BB_Escape.uasset"
+			]
+		}
+	]
+}
