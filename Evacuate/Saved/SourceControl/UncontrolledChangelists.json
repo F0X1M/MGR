@@ -22,8 +22,10 @@
 				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/Services/BTService_SetLeader.uasset",
 				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Levels/School.umap",
 				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Levels/LectureHall.umap",
-				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Levels/MarketHal.umap",
 				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Levels/MarketHall.umap",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/UI/Widgets/UI/WBP_UserInteface.uasset",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/GameMode/BP_SimulationGameMode.uasset",
+				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Levels/MarketHal.umap",
 				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/Tasks/BTTask_SearchForLeader.uasset",
 				"C:/Foxim/Nauka/MGR/Evacuate/Content/Main/Blueprints/AI/Tasks/BTTask_LookingForNewmark.uasset"
 			]
